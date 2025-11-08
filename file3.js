@@ -17,3 +17,7 @@ const c =()=>{
 const h =()=>{
     console.log("hhh")
 }
+
+const j =()=>{
+    alert("jjj")
+}
