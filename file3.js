@@ -13,3 +13,7 @@ const e =()=>{
 const c =()=>{
     console.log("ccc")
 }
+
+const h =()=>{
+    console.log("hhh")
+}
